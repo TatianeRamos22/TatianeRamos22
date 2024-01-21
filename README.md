@@ -3,10 +3,10 @@
 <!--
 **TatianeRamos22/TatianeRamos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About me, so you can start here:
 
-- 🔭 Atualmente trabalho na área de recursos humanos, estou em transição para a área de tecnologia com front-end
-- 🌱 Estudando Html, CSS
+- 🔭  Enthusiast & Curious Mind! Após anos atuando na área de Gestão de Recursos Humanos, decidi seguir minha curiosidade pela tecnologia. Hoje, sou uma profissional de Quality Assurance (QA), mergulhando em testes e assegurando a excelência em produtos digitais. Estou aqui para aprender, colaborar e compartilhar experiências! Vamos juntos impulsionar inovações e construir um futuro digital incrível.
+- 🌱 Estudando Ruby | Testes automatizados em Robot Framework | Testes Regressivos | Git | Github | Jira | Metodologia Ágil | Levantamento de casos de testes |
 - 📫 Pode entrar em contato comigo através do e-mail: tatianessramos@gmail.com
 - 😄 Pronomes: ela/dela
 -->
