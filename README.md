@@ -4,7 +4,7 @@
 About me, so you can start here:
 
 - 🔭  Enthusiast & Curious Mind! Após anos atuando na área de Gestão de Recursos Humanos, decidi seguir minha curiosidade pela tecnologia. Hoje, sou uma profissional de Quality Assurance (QA), mergulhando em testes e assegurando a excelência em produtos digitais. Estou aqui para aprender, colaborar e compartilhar experiências! Vamos juntos impulsionar inovações e construir um futuro digital incrível.
-- 🌱 Levantamento de casos de testes | Testes automatizados em Playwright | Robot Framework | Testes Funcionais | Testes Regressivos | JavaScript | Python | Git | Github | Jira | BusinessMap |Metodologia Ágil |  
+- 🌱 Levantamento de casos de testes | Testes automatizados em Playwright | Robot Framework | Testes Funcionais | Testes Regressivos | JavaScript | Python | Git | Github | Jira | BusinessMap | Metodologia Ágil |  
 - 📫 Pode entrar em contato comigo através do e-mail: tatianessramos@gmail.com
 - 😄 Pronomes: ela/dela
 
